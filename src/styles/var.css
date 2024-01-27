@@ -1,0 +1,23 @@
+:root{
+  /*FONT*/
+  --font-principal: "DM Sans", sans-serif;
+
+  /*COLORS*/
+  --preto: #000000;
+  --preto-medio: #121212;
+  --preto-medio-2: #131313;
+  --preto-claro: #242424;
+  --preto-base: #000;
+  --branco: #ffffff;
+  --branco-medio: #fff;
+  --cinza: #b3b3b3;
+  --cinza-medio:  #a7a7a7;;
+  --degrade: linear-gradient(to right, #ae2896, #509bf5);
+  --bg-arrow-color:rgba(0,0,0,7);
+  --bg-top-bar: #61616142;
+
+  --grid-gap: 24px;
+  --column-count: 5;
+
+
+}
